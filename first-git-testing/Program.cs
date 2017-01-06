@@ -6,7 +6,7 @@ namespace FirstTest
     {
         static void Main(string[] args)
         {
-            // määritellään muuttuja
+            // määritellään muuttujaasasasdasasd
             string nimi = "Matti Mainio";
             // tulostetaan muuttujan arvo konsolille
             Console.WriteLine("Nimi on " + nimi);
